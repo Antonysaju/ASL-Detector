@@ -23,7 +23,6 @@ The ASL Sign Language Detector is a powerful tool designed to recognize and inte
 
 - [Open the Link](https://asl-detector.streamlit.app/)
 - Click the Start Button to turn on the camera and ensure there is enough light
-![To Start](https://raw.githubusercontent.com/aashishops/ASL-Detector/main/images/ezgif-1-d9627fd4d4.gif)
  
  - Show some ASL Signs For it to Detect
 
